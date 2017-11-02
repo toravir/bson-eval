@@ -1,6 +1,8 @@
 # bson-eval
 Code to compare writing in JSON vs BSON
 
+This is specifically related to https://github.com/rs/zerolog - which currently writes only in JSON. 
+
 Results:
 
 ```
